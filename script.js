@@ -18,6 +18,7 @@ const DEFAULT_DATA = {
         'Shopping',
         'Dating',
         'Coffe',
+        'Utility',            
         'Other'
     ],
     },
