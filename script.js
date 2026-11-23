@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', () => {
     window.AppStateData = AppState;
 
     const U_HASH = "RGVsbGE=";
-    const P_HASH = "S3Jpc25hZ2FudGVuZzEyMw==";
+    const P_HASH = "RGVsbGFjYW50aWs=";
 
     // ========================================================================
     // 2. UTILITIES & COLOR HELPER
